@@ -3,7 +3,8 @@
 The 8ball game  asks random questions then gives the random answeres for them 
 
 
-HOW TO RUN 
+
+<b>HOW TO RUN
 
 ```
 ruby 8ball.rb
