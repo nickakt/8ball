@@ -7,5 +7,4 @@ HOW TO RUN
 
 ```
 ruby 8ball.rb
-
 ```
